@@ -46,7 +46,7 @@
   <a href="https://www.linkedin.com/in/prakhar-madharia-864969215/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="prakhar1304@gmail.com" target="_blank">
+  <a href="mailto:prakhar1304@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
@@ -71,24 +71,30 @@
 
 ###
 
-<img align="left" height="500" src="https://res.cloudinary.com/dwbdtvo3s/image/upload/v1745995252/imp/jdwyo7obpnwpqbfnyk4o.jpg"  />
+<!-- Two-column section with image and highlights -->
+<table>
+  <tr>
+    <td width="50%">
+      <img height="450" src="https://res.cloudinary.com/dwbdtvo3s/image/upload/v1745995252/imp/jdwyo7obpnwpqbfnyk4o.jpg" />
+    </td>
+    <td valign="top">
+      <h2>🏆 Highlights & Achievements</h2>
+      <ul>
+        <li>🥈 Runner-Up – HackthInD SPAR 6 (2024)</li>
+        <li>🇮🇳 National Finalist – Smart India Hackathon (SIH) 2024</li>
+        <li>🌐 National Finalist – Web3Conf India Hackathon</li>
+        <li>⚡ Winner – Flash Hack</li>
+        <li>🌟 Top Contributor – GGSOC (Top among 386+ contributors)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ###
 
 <br clear="both">
 
-<h1 align="left">🏆 Highlights & Achievements</h1>
-
-###
-
-<p align="left">🥈 Runner-Up – HackthInD SPAR 6 (2024)<br><br>🇮🇳 National Finalist – Smart India Hackathon (SIH) 2024<br><br>🌐 National Finalist – Web3Conf India Hackathon<br><br>⚡ Winner – Flash Hack<br><br>🌟 Top Contributor – GGSOC (Top among 386+ contributors)</p>
-
-###
-
-<br clear="both">
-
-<!-- <img src="https://raw.githubusercontent.com/prakhar1304/prakhar1304/output/snake.svg" alt="Snake animation" /> -->
-
+<!-- Snake contribution graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prakhar1304/prakhar1304/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prakhar1304/prakhar1304/output/github-snake.svg" />
