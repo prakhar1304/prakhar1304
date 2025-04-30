@@ -32,6 +32,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prakhar1304&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakhar1304&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true" height="159" alt="languages graph"  />
+</div>
+
+###
+
 <div align="left">
   <a href="https://www.youtube.com/@PrakharXedit" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -58,13 +65,13 @@
 
 ###
 
-<img align="left" height="500" src="https://res.cloudinary.com/dwbdtvo3s/image/upload/v1745995252/imp/jdwyo7obpnwpqbfnyk4o.jpg"  />
-
-###
-
 <div align="right">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=prakhar1304&theme=dark" alt="Layout with last medium posts"  />
 </div>
+
+###
+
+<img align="left" height="500" src="https://res.cloudinary.com/dwbdtvo3s/image/upload/v1745995252/imp/jdwyo7obpnwpqbfnyk4o.jpg"  />
 
 ###
 
@@ -75,5 +82,11 @@
 ###
 
 <p align="left">🥈 Runner-Up – HackthInD SPAR 6 (2024)<br><br>🇮🇳 National Finalist – Smart India Hackathon (SIH) 2024<br><br>🌐 National Finalist – Web3Conf India Hackathon<br><br>⚡ Winner – Flash Hack<br><br>🌟 Top Contributor – GGSOC (Top among 386+ contributors)</p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/prakhar1304/prakhar1304/output/snake.svg" alt="Snake animation" />
 
 ###
